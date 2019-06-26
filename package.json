@@ -1,0 +1,25 @@
+{
+  "name": "hugotest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deploy.js",
+  "scripts": {
+    "deploy": "node deploy.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irisslesley/hugotest.iriss.org.uk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irisslesley/hugotest.iriss.org.uk/issues"
+  },
+  "homepage": "https://github.com/irisslesley/hugotest.iriss.org.uk#readme",
+  "dependencies": {
+    "glob": "^7.1.4",
+    "ssh2-sftp-client": "^2.5.0",
+    "upath": "^1.1.2"
+  }
+}
