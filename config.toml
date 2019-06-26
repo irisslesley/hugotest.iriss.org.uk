@@ -1,0 +1,4 @@
+baseURL = "http://hugotest.iriss.org.uk/"
+languageCode = "en-gb"
+title = "Hello World Hugo"
+theme = "ananke"
