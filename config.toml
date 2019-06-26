@@ -1,4 +1,4 @@
-baseURL = "http://hugotest.iriss.org.uk/"
+baseURL = "http://transcripts.iriss.org.uk/hugotest/"
 languageCode = "en-gb"
 title = "Hello World Hugo"
 theme = "ananke"
