@@ -5,8 +5,9 @@ install:
 - npm install
 before_script:
 - rm -rf public
-script:
 - hugo
+script:
+- npm run deploy
 branches:
  only:
  - master
